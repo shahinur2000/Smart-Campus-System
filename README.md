@@ -42,3 +42,22 @@ The Smart Campus System is a comprehensive solution designed to enhance campus m
 ### 8. User Training:
 
 - Train end-users and administrators on how to use and maintain the Smart Campus System.
+
+### Assignment
+### Couse code: CSE305
+### Course Title: Software Engineering 
+
+## Submitted By
+- Name: MD SHAHINUR ISLAM
+- Student ID: 2002059
+
+## Submitted To
+- Pankaj Bhowmik
+- Lecturer, Department of CSE, HSTU
+
+## Date of Submission
+20 January 2024
+
+
+
+
